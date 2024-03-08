@@ -1,0 +1,24 @@
+{
+  "name": "teaxyz-100",
+  "version": "1.0.0",
+  "description": "teaxyz 100",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hapiman/teaxyz-100.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "0.1.4",
+    "tea-88n77": "^1.0.0",
+    "tea-demonstration": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nazar-888/tea2-88n77/issues"
+  },
+  "homepage": "https://github.com/hapiman/teaxyz-100#readme"
+}
